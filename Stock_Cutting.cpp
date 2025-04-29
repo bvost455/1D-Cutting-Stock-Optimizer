@@ -20,7 +20,7 @@ int main()
 	vector<vector<Beam>> nestedBeams;
 	int stocklength = 20;
 	int currentstock = 0;
-	int kerg = 0.025;
+	int kerf = 0.025;
 
 	for (size_t i = 0; i < beam_lengths.size(); i++)
 	{
